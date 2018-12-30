@@ -1,4 +1,4 @@
-package kickstart2018.practice;
+/*package kickstart2018.practice;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
@@ -54,4 +54,4 @@ public class AGbusCount {
 		reader.close();
 		writer.close();
 	}
-}
+}*/
